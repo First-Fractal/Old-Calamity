@@ -80,7 +80,7 @@ You should see that Steam is downloading it. Note that Steam will NOT REPLACE YO
 
 
 
-<img src="imgs/command.png" alt ="older version image">
+<img src="imgs/older version.png" alt ="older version image">
 
 
 Walla. You have successfully downgraded Calamity, Tmodloader, And Terraria. If you had any issues, either report them in the issues side, or Report them to my [Discord Server.](https://discord.com/invite/uq5hpBWr8D)
